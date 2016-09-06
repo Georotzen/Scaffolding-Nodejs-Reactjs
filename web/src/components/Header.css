@@ -1,0 +1,42 @@
+.App-logo {
+  margin: 2px;
+  padding: 0px;
+}
+
+.App-header {
+  position: fixed!important;
+  top: 0!important;
+  width: 100%;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  box-shadow: 0 -3px 13px 2px #888;
+}
+
+.App-header .navbar-brand{
+  padding: 8px 15px;
+}
+
+.App-header .navbar-brand > img {
+  display: inline-block;
+}
+
+.App-header .navbar-brand span{
+  color: #FB3E37;
+  font-weight: bold;
+}
+
+.App-header .navbar-default{
+  margin-bottom: 0px;
+}
+
+.App-content {
+  padding: 20px;
+  margin-top: 60px;
+  font-size: large;
+}
+
+.img-flag-language{
+  width: 18px;
+  height: 18px;
+}

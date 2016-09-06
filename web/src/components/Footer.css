@@ -1,0 +1,20 @@
+.App-footer{
+  padding: 40px 0px;
+  background-color: #1c3643;
+  color: #fff;
+}
+
+.App-footer .list-unstyled a{
+  color: white;
+  text-decoration: underline;
+}
+
+.App-footer .list-unstyled a:hover,
+.App-footer .list-unstyled a:focus,
+.App-footer .list-unstyled a:active{
+  color: #7fc719;
+}
+
+.App-footer .slogan{
+  width: 90%;
+}
