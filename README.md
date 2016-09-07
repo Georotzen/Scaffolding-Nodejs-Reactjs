@@ -11,7 +11,7 @@ I have a [detailed blog post](https://jhonfredynova.blogspot.com.co/2016/09/full
 Before running you must configure the environment vars on the file `.env` that is localized on the root at project.
 
 ```
-git clone git@github.com:jhonfredynova/Scaffolding-Nodejs-Reactjs.git
+git clone https://github.com/jhonfredynova/Scaffolding-Nodejs-Reactjs.git
 cd Scaffolding-Nodejs-Reactjs
 npm i
 npm start
